@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env
+
+# Logs
+*.log
+tn_unified_downloader.log
+
+# Downloaded PDFs (local data — do not commit)
+TN GOs/
+downloads/
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
